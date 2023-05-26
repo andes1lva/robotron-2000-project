@@ -64,10 +64,4 @@ function atualizaEstatistica(peca) {
 
 
 }
-    //console.log(elemento.dataset.estatistica)}
-
-   // estatisticas.forEach( (elemento ) => {
-        //console.log(elemento.textContent = parseInt(elemento.textContent) + pecas[peca][elemento.dataset.estatistica])
-   // })
-//}
     
